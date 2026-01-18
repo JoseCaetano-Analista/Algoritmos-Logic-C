@@ -1,4 +1,4 @@
-Sistema-Inovar 🚀
+Algoritmos Logic - C
 
 Este repositório contém uma coleção de algoritmos e programas desenvolvidos em linguagem C durante meus estudos de Ciência da Computação.
 
