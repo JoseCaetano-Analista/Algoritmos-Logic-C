@@ -3,7 +3,7 @@
 int main(){
 	
 	setlocale (LC_ALL, "Portuguese");
-	printf("Jo„o da Silva \n 04/09/1989\n");
+	printf("Jo√£o da Silva \n 04/09/1989\n");
 	
 	return 0;
 }
