@@ -25,7 +25,7 @@ int main(){
 	ganho2 = (percentual2 / 100) * premioTotal;
 	ganho3 = (percentual3 / 100) * premioTotal;
 	
-	printf("\n--- Resultado da Divisão do Prêmio ---\n");
+	printf("\n--- Resultado da DivisÃ£o do PrÃªmio ---\n");
 	printf("Total investido 1: R$ %.2\n", totalInvestido);
 	
 	printf("\nApostador 1 investiu: R$ %.2f (%.2f%%)\n", investimento1, percentual1);
