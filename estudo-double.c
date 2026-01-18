@@ -4,7 +4,7 @@ double x;
 // Atribuindo
 x = 9;
 x = 3.14;
-// Declarando mais de uma vari·vel
+// Declarando mais de uma vari√°vel
 double y, z;
 // Imprimindo
 printf("%lf", x);
